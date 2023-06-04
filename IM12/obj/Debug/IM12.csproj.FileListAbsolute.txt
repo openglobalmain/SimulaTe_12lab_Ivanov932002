@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\bin\Debug\IM12.exe.config
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\bin\Debug\IM12.exe
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\bin\Debug\IM12.pdb
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\obj\Debug\IM12.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\obj\Debug\IM12.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\obj\Debug\IM12.Form1.resources
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\obj\Debug\IM12.Properties.Resources.resources
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\obj\Debug\IM12.csproj.GenerateResource.cache
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\obj\Debug\IM12.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\obj\Debug\IM12.exe
+C:\Users\User\Downloads\SimulaTe_12lab_Ivanov932002\IM12\obj\Debug\IM12.pdb
